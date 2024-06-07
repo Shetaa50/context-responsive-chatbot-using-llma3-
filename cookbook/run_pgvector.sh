@@ -1,3 +1,4 @@
+## for bash 
 docker run -d \
   -e POSTGRES_DB=ai \
   -e POSTGRES_USER=ai \
